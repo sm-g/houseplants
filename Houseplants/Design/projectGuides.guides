@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ProjectGuidesConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectItemGuides>
+    <ProjectItemGuide TargetFile="Pages\MyFlowersPage.xaml">
+      <GuideModels>
+        <GuideModel>
+          <Guides>
+            <Guide Alignment="Top" Position="153" />
+            <Guide Alignment="Left" Position="40" />
+            <Guide Alignment="Top" Position="133" />
+            <Guide Alignment="Left" Position="291" />
+            <Guide Alignment="Top" Position="80" />
+          </Guides>
+        </GuideModel>
+      </GuideModels>
+    </ProjectItemGuide>
+  </ProjectItemGuides>
+</ProjectGuidesConfiguration>

@@ -1,0 +1,17 @@
+syntax: glob
+*.suo
+*.user
+*.ncb
+bin/
+obj/
+CodeAnalyst/
+packages/
+Thumbs.db
+*.laccdb
+*.psess
+*.vsp
+*.vspx
+*.coverage
+Release/
+Debug/
+*.lnk
